@@ -1,11 +1,5 @@
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-ESM-F7DF1E?logo=javascript&logoColor=black)
-
-![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=nodedotjs&logoColor=white)
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-SDK-8E75B2?logo=googlegemini&logoColor=white)
-
-![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-181717?logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ESM-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=nodedotjs&logoColor=white) ![Google GenAI](https://img.shields.io/badge/Google_GenAI-SDK-4285F4?logo=google&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-181717?logo=github&logoColor=white)
 
 # Gemini API Quickstart (Node.js)
 

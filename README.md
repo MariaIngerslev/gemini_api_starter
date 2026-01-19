@@ -46,7 +46,14 @@ node --env-file=.env test.mjs
 **Expected Output:** The script will print a generated explanation of how Gemini API can help users.
 
 ```bash
-Codeuser@Maria:~$ node --env-file=.env test.mjs You can use the Gemini API to build intelligent applications that automate tasks, personalize experiences, and provide instant insights. It can summarize complex information, answer questions, generate creative content, and even understand images and videos. This streamlines workflows, reduces manual effort, and offers on-demand assistance, making daily life significantly easier by saving time and improving decision-making.
+Codeuser@Maria:~$ node --env-file=.env test.mjs
+You can use the Gemini API to build intelligent applications 
+that automate tasks, personalize experiences, and provide instant insights. 
+It can summarize complex information, answer questions, 
+generate creative content, and even understand images and videos. 
+This streamlines workflows, reduces manual effort, and 
+offers on-demand assistance, making daily life significantly easier 
+by saving time and improving decision-making.
 ```
 
 ## 📂Project Structure
